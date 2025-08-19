@@ -1,0 +1,9 @@
+{
+	"name": "df1112P3",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ff0b66c-64ea-4c63-b441-0c8a66b639be",
+		"tenantId": "762fdc3d-226a-4ee6-8897-165104e6bee4"
+	}
+}
